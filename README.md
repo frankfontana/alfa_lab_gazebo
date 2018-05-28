@@ -25,4 +25,5 @@ Veraldi Stefano VR378035 <br>
 - Creazione Mappa <br>
 - Creazione README.md <br>
 - Creazione Video <br>
+- Modifica file 'setup.sh' <br>
 
