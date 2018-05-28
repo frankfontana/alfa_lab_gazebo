@@ -22,7 +22,7 @@ Al seguente link viene riportato il video di una simulazione in 2D in cui il rob
 Fontana Francesco VR081502 <br>
 
 Veraldi Stefano VR378035 <br>
-- creazione Mappa <br>
+- Creazione Mappa <br>
 - Creazione README.md <br>
 - Creazione Video <br>
 
