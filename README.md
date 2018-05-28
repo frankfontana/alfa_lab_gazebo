@@ -7,11 +7,11 @@ Studenti: Francesco Fontana - Veraldi Stefano <br>
 
 <strong> <h2>  Istruzioni </h2>  </strong>
 <p>
-1. Clonare la seguente repositiory: <br>
-
+1. Eseguire le istruzioni presenti a questo <a href="http://emanual.robotis.com/docs/en/platform/turtlebot3/pc_setup/">link</a>
+2. Clonare la seguente repositiory: <br>
 https://github.com/frankfontana/alfa_lab_gazebo.git <br>
 
-2. Spostarsi all'interno della directory 'alfa_lab_gazebo' e avviare lo script "setup.sh"
+3. Spostarsi all'interno della directory 'alfa_lab_gazebo' e avviare lo script "setup.sh"
 </p>
 <strong> <h2> Video </h2> </strong>
 
@@ -20,6 +20,6 @@ Al seguente link viene riportato i video di una simulazione di 2D in cui il robo
 
 
 <strong> <h2> Autori </h2> </strong>
-Fontana Francesco VR ....
+Fontana Francesco VR .... <br>
 Veraldi Stefano VR378035
 
