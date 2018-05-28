@@ -9,5 +9,12 @@ echo Launch alfa_lab with turtlebot:
 echo roslaunch turtlebot3_gazebo turtlebot3_alfa_lab.launch
 
 echo 
-echo Then launch Turtlebot autonomous navigation:
-echo roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
+echo Then launch Turtlebot navigation:
+echo TURTLEBOT3_MODEL=waffle
+echo roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/alfa_lab_gazebo/map/alfa_lab_map.yaml
+
+echo 
+echo Then launch Turtlebot rvitz navigation:
+echo TURTLEBOT3_MODEL=waffle
+echo rosrun rviz rviz -d 'rospack find turtlebot3_navigation'/rviz/turtlebot3_nav.rviz
+
