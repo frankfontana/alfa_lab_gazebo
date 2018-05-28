@@ -15,7 +15,7 @@ https://github.com/frankfontana/alfa_lab_gazebo.git <br> <br>
 <strong> <h2> Video </h2> </strong>
 
 Al seguente link viene riportato i video di una simulazione di 2D in cui il robot (in simulata) si muove autonomamente all'interno della mappa
-<a href="https://drive.google.com/open?id=11Y_Ipf1d9_DnDovqJzs5m8bk4dmJ4GJb"> Link </a>
+<a href="https://drive.google.com/file/d/11Y_Ipf1d9_DnDovqJzs5m8bk4dmJ4GJb/view?usp=sharing"> Link </a>
 
 
 <strong> <h2> Autori </h2> </strong>
