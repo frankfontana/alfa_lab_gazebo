@@ -14,7 +14,7 @@ https://github.com/frankfontana/alfa_lab_gazebo.git <br>
 2. Spostarsi all'interno della directory 'alfa_lab_gazebo' e avviare lo script "setup.sh"
 </p>
 <strong> <h2> Video </h2> </strong>
-<hr>
+
 Al seguente link viene riportato i video di una simulazione di 2D in cui il robot (in simulata) si muove autonomamente all'interno della mappa
 <a href="https://drive.google.com/open?id=11Y_Ipf1d9_DnDovqJzs5m8bk4dmJ4GJb"> Link </a>
 
