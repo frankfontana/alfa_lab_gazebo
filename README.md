@@ -25,6 +25,7 @@ Fontana Francesco VR081502 <br>
 - Creazione cartella alfa_lab con modelli scaricati da web<br>
 - Creazione file turtlebot_alfa_lab.launch<br>
 - Creazione Mappa<br>
+
 Veraldi Stefano VR378035 <br>
 - Creazione Mappa <br>
 - Creazione README.md <br>
