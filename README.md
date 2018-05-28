@@ -14,12 +14,15 @@ https://github.com/frankfontana/alfa_lab_gazebo.git <br> <br>
 </p>
 <strong> <h2> Video </h2> </strong>
 
-Al seguente link viene riportato i video di una simulazione di 2D in cui il robot (in simulata) si muove autonomamente all'interno della mappa
-<a href="https://drive.google.com/file/d/11Y_Ipf1d9_DnDovqJzs5m8bk4dmJ4GJb/view?usp=sharing"> Link </a>
+Al seguente link viene riportato il video di una simulazione in 2D in cui il robot (in simulata) si muove autonomamente all'interno della mappa
+<a href="https://drive.google.com/file/d/1pkqdJLuq_bTUTfqH_ICGJl0YiZDrX-Wa/view?usp=sharing"> Link </a>
 
 
 <strong> <h2> Autori </h2> </strong>
 Fontana Francesco VR081502 <br>
-Veraldi Stefano VR378035
 
-<strong> <h2>  </h2> </strong>
+Veraldi Stefano VR378035 <br>
+- creazione Mappa <br>
+- Creazione README.md <br>
+- Creazione Video <br>
+
